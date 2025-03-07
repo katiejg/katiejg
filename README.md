@@ -1,5 +1,6 @@
-### Hi, I'm Katie! 👋
+### 👋 Hi, I'm Katie!
 [Personal Website](https://katiejg.github.io/)
+
 Currently, I am a computer engineering undergraduate at Northwestern University. 
 
 <!--
