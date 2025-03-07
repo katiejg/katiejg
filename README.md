@@ -1,4 +1,5 @@
 ### Hi there 👋
+[personal website](https://katiejg.github.io/)
 
 <!--
 **katiejg/katiejg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
