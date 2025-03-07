@@ -1,5 +1,6 @@
-### Hi there 👋
-[personal website](https://katiejg.github.io/)
+### Hi, I'm Katie! 👋
+[Personal Website](https://katiejg.github.io/)
+Currently, I am a computer engineering undergraduate at Northwestern University. 
 
 <!--
 **katiejg/katiejg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
