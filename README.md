@@ -3,6 +3,8 @@
 
 Currently, I am a computer engineering undergraduate at Northwestern University. 
 
+- Languages: C/C++, JavaScript, Python, HTML/CSS
+
 <!--
 **katiejg/katiejg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
